@@ -1,5 +1,5 @@
 # About Me
-I'm mineral water. I do code for minecraft and becoming better at it
+I'm mineral water. I do code for minecraft and im becoming better at it
 
 # Stats
 
