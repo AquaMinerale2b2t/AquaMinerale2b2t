@@ -1,5 +1,5 @@
 # About Me
-I'm mineral water. I do code for minecraft and im becoming better at it
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b2577b&lines=Telegram:+@bush1root)](SWAG)
 
 # Stats
 
