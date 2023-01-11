@@ -1,5 +1,5 @@
 # About Me
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b2577b&linesSWAG)](SWAG)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8803fc&lines=SWAG)
 
 # Stats
 
