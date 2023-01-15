@@ -12,4 +12,4 @@
 </p>
 
 # Contact me
-Discord: Mineral water#2290
+Discord: Mineral water#1462
