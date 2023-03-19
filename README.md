@@ -1,5 +1,5 @@
 # About Me
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8803fc&lines=SWAG)
+i do code for block game in spare time
 
 # Stats
 
