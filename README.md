@@ -12,4 +12,4 @@ i do code for block game in spare time
 </p>
 
 # Contact me
-Discord: Mineral water#5005
+Discord: mineral.water
