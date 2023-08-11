@@ -1,5 +1,5 @@
 # About Me
-i dev for 9hack and that's about it (for now)
+on vacation!
 
 # Profile views
 <p align="center">
@@ -7,4 +7,4 @@ i dev for 9hack and that's about it (for now)
 </p>
 
 # Contact me
-Discord: mineral.water
+Dont!
