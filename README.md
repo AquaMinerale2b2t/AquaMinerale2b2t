@@ -1,5 +1,5 @@
 # About Me
-on vacation!
+working on 9hack!
 
 # Profile views
 <p align="center">
@@ -7,4 +7,4 @@ on vacation!
 </p>
 
 # Contact me
-Dont!
+Discord: mineral.water
