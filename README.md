@@ -1,5 +1,5 @@
 # About Me
-working on 9hack!
+Hobby developer, block game addict
 
 # Profile views
 <p align="center">
